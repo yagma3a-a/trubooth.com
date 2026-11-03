@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trubooth.com/sitemap.xml
+Sitemap: https://trubooth.com/photobook/sitemap.xml
