@@ -114,14 +114,14 @@
   </url>
   <url>
     <loc>https://trubooth.com/photobooks/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/"/>
     <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/"/>
   </url>
   <url>
     <loc>https://trubooth.com/ar/photobooks/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/"/>
     <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/"/>
@@ -408,14 +408,14 @@
   </url>
   <url>
     <loc>https://trubooth.com/ramadan-eid-photo-booth/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/ramadan-eid-photo-booth/"/>
     <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/ramadan-eid-photo-booth/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/ramadan-eid-photo-booth/"/>
   </url>
   <url>
     <loc>https://trubooth.com/ar/ramadan-eid-photo-booth/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/ramadan-eid-photo-booth/"/>
     <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/ramadan-eid-photo-booth/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/ramadan-eid-photo-booth/"/>
@@ -548,14 +548,14 @@
   </url>
   <url>
     <loc>https://trubooth.com/photobooks/photobook-gift/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/photobook-gift/"/>
     <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/photobook-gift/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/photobook-gift/"/>
   </url>
   <url>
     <loc>https://trubooth.com/ar/photobooks/photobook-gift/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/photobook-gift/"/>
     <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/photobook-gift/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/photobook-gift/"/>
@@ -713,5 +713,33 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/farewell-retirement-photobook/"/>
     <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/farewell-retirement-photobook/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/farewell-retirement-photobook/"/>
+  </url>
+  <url>
+    <loc>https://trubooth.com/photobooks/ramadan-eid-photobook/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/ramadan-eid-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/ramadan-eid-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/ramadan-eid-photobook/"/>
+  </url>
+  <url>
+    <loc>https://trubooth.com/ar/photobooks/ramadan-eid-photobook/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/ramadan-eid-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/ramadan-eid-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/ramadan-eid-photobook/"/>
+  </url>
+  <url>
+    <loc>https://trubooth.com/photobooks/year-in-review-photobook/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/year-in-review-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/year-in-review-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/year-in-review-photobook/"/>
+  </url>
+  <url>
+    <loc>https://trubooth.com/ar/photobooks/year-in-review-photobook/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://trubooth.com/photobooks/year-in-review-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://trubooth.com/ar/photobooks/year-in-review-photobook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trubooth.com/photobooks/year-in-review-photobook/"/>
   </url>
 </urlset>
